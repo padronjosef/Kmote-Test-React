@@ -4,12 +4,12 @@
 ## Set up
 To set up this project, first clone the repository
 ```bash
-$ git clone 
+$ git clone git@github.com:padronjosef/Kmote-Test-React.git
 ```
 
 Change your working directory into the project directory
 ```bash
-$ cd 
+$ cd Kmote-Test-React
 ```
 ## Run
 
@@ -20,8 +20,8 @@ $ npm install
 
 Start the application
 ```bash
-$ npm start
+$ npm run start
 ```
 
 ## Built With
-[React](https://github.com/facebook/create-react-app) 
+[Create React App](https://github.com/facebook/create-react-app) 
